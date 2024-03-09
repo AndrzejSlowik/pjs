@@ -1,3 +1,5 @@
+// wyklad z 3.03
+
 // moje działania i zadania
 
 console.log("działa");
@@ -325,6 +327,6 @@ const tabOfElements = document.querySelectorAll('.klasa');
 // starsze podejscie
 const oldEmailInputByID = document.getElementById('emailID');
 const oldEmailInputByClass = document.getElementsByClassName('email');
-console.log(emailInput.value);
+// console.log(emailInput.value);
 console.log(oldEmailInputByID)
 console.log(oldEmailInputByClass)
